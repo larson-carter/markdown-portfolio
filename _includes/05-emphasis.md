@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Merge into production without testing**
+__Don't forget to force push!__
+
+_You **can** commit them_
